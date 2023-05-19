@@ -6,3 +6,5 @@ Curent acuracy for the testing data  = 93.33%
 
 
 Curent acuracy for the training data  = 99.17%
+
+trained model is in .sav file which we can use to predict the Flower type 
